@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://yusfai.github.io"><img src="https://img.shields.io/badge/View%20my%20portfolio-yusfai.github.io-1D5FD1?style=for-the-badge" alt="View my portfolio: yusfai.github.io"></a>
-  <a href="https://www.linkedin.com/in/youssef-hamidi-490688321/"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Hamidi-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/youssef-hamidi-490688321/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
 **Business Intelligence student at IHEC Carthage** · aspiring **data / business analyst** who also builds software and machine-learning models.
