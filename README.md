@@ -1,8 +1,11 @@
 # Hi, I'm Youssef 👋
 
-**Business Intelligence student at IHEC Carthage** · aspiring **data / business analyst** who also builds software and machine-learning models.
+<p>
+  <a href="https://yusfai.github.io"><img src="https://img.shields.io/badge/View%20my%20portfolio-yusfai.github.io-1D5FD1?style=for-the-badge" alt="View my portfolio: yusfai.github.io"></a>
+  <a href="https://www.linkedin.com/in/youssef-hamidi-490688321/"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Hamidi-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+</p>
 
-🌐 **Portfolio: [yusfai.github.io](https://yusfai.github.io)**
+**Business Intelligence student at IHEC Carthage** · aspiring **data / business analyst** who also builds software and machine-learning models.
 
 I like turning business questions into working tools: dashboards you can talk to, models you can explain, and apps people actually use.
 
