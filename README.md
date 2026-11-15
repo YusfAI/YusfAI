@@ -22,10 +22,10 @@ I like turning business questions into working tools: dashboards you can talk to
 | [**DevoTeam Dashboard**](https://github.com/YusfAI/DevoTeam_Project) | Conversational BI: a French question becomes a filtered dashboard of 5–7 visuals. The LLM only *understands* the question; numbers are computed by code, so no figure is ever made up | Python · React · local LLM · Docker |
 | [**5edma.tn**](https://github.com/YusfAI/5edmaa.tn) | Tunisian marketplace for local services and gig work: jobs and applications, bookable services, ID verification, chat, wallet, reviews, AI-written bios | FastAPI · MySQL · Next.js · Docker |
 | [**MindWallet**](https://github.com/YusfAI/MindWallet) | AI coach for emotional spending: reads your mood, then blocks, warns about or allows a purchase, and tracks the money you kept | Node.js · Groq (Llama 3.3) · JS |
-| [**Healthy Lifestyle Detector**](https://github.com/YusfAI/Healtrhy-lifestyle-detector) | Random Forest on a 125-student food survey, cross-validated, with a desktop UI that explains which habits matter | scikit-learn · PySide6 |
+| [**Healthy Lifestyle Detector**](https://github.com/YusfAI/healthy-lifestyle-detector) | Random Forest on a 125-student food survey, cross-validated, with a desktop UI that explains which habits matter | scikit-learn · PySide6 |
 | [**App-Stock**](https://github.com/YusfAI/App-Stock) | Inventory, sales and profit dashboard for a real online sports shop (KPIs, weekly courier payouts, monthly history) | PHP · MySQL · JS |
 | [**Movie App**](https://github.com/YusfAI/movie-app) | TMDB explorer with live search, detail pages and a persistent wish list | Angular · RxJS · signals |
-| [**ShowroomAuto**](https://github.com/YusfAI/Angular) | Car showroom catalogue with search, filters, sorting and detail view | Angular |
+| [**ShowroomAuto**](https://github.com/YusfAI/showroom-auto) | Car showroom catalogue with search, filters, sorting and detail view | Angular |
 | [**Data Science Roadmap**](https://github.com/YusfAI/Data_Science_Road_Map) | My learning plan + notebooks: vectors, PCA by hand, hypothesis tests, bootstrap CIs | NumPy · SciPy |
 
 ## 📫 Contact
