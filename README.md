@@ -30,4 +30,4 @@ I like turning business questions into working tools: dashboards you can talk to
 
 ## 📫 Contact
 
-Open to internships and junior roles in **data / business analysis, BI and ML**. Reach me on [LinkedIn](https://www.linkedin.com/in/youssef-hmidi-490688321/).
+Open to internships and junior roles in **data / business analysis, BI and ML**. Reach me on [LinkedIn](https://www.linkedin.com/in/youssef-hamidi-490688321/).
