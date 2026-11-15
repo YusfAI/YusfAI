@@ -2,6 +2,8 @@
 
 **Business Intelligence student at IHEC Carthage** · aspiring **data / business analyst** who also builds software and machine-learning models.
 
+🌐 **Portfolio: [yusfai.github.io](https://yusfai.github.io)**
+
 I like turning business questions into working tools: dashboards you can talk to, models you can explain, and apps people actually use.
 
 - 🔭 Recently built a **conversational sales dashboard** during my internship at **Devoteam Tunisia**: ask a question in French, get a full dashboard
